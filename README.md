@@ -1,4 +1,4 @@
 # CS230-Group-4
 
-please write your name if you see this: 
+Group 4: 
 Raul Espitia, Abia Khan, Breanne Loo, Edwin Gatheru
